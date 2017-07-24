@@ -1,4 +1,4 @@
-[{"location":"동래문화회관","detail":"2층","gu":"동래구","tel":"SKT","ssid":"Public WiFi","adress1":"부산광역시 동래구 문화로 80","aderess1":"부산광역시 동래구 명륜2동 137","lat":35.212071,"hat":129.090388},
+{"status":"OK","num_results":"840","results":[{"location":"동래문화회관","detail":"2층","gu":"동래구","tel":"SKT","ssid":"Public WiFi","adress1":"부산광역시 동래구 문화로 80","aderess1":"부산광역시 동래구 명륜2동 137","lat":35.212071,"hat":129.090388},
 {"location":"동래문화회관","detail":"지하1층","gu":"동래구","tel":"SKT","ssid":"Public WiFi","adress1":"부산광역시 동래구 문화로 80","aderess1":"부산광역시 동래구 명륜2동 137","lat":35.212071,"hat":129.090388},
 {"location":"동래보건소","detail":"민원실","gu":"동래구","tel":"KT","ssid":"Public WiFi","adress1":"부산광역시 동래구 명륜로187번길 56","aderess1":"부산광역시 동래구 명륜동 702-54","lat":35.2114415,"hat":129.0798777},
 {"location":"동래보건소","detail":"민원실","gu":"동래구","tel":"SKT","ssid":"Public WiFi","adress1":"부산광역시 동래구 명륜로187번길 56","aderess1":"부산광역시 동래구 명륜동 702-54","lat":35.211408,"hat":129.079856},
@@ -837,4 +837,4 @@
 {"location":"남구청 구민공원","detail":"공원","gu":"남구","tel":"SKT","ssid":"Public WiFi","adress1":"부산광역시 남구 못골로 19","aderess1":"부산광역시 남구 대연6동 1268-1","lat":35.1364086,"hat":129.0843714},
 {"location":"남구청 민원실","detail":"2층, 3층","gu":"남구","tel":"SKT","ssid":"Public WiFi","adress1":"부산광역시 남구 못골로 19","aderess1":"부산광역시 남구 대연동 1268-1","lat":35.1364086,"hat":129.0843714},
 {"location":"원자력스포츠문화센터","detail":"센터","gu":"기장군","tel":"KT","ssid":"Public WiFi","adress1":"부산광역시 기장군 장안읍 천산로 28","aderess1":"부산광역시 기장군 장안읍 길천리 411-2","lat":35.335499,"hat":129.283327},
-{"location":"우암동 주민센터","detail":"민원실","gu":"남구","tel":"LGU+","ssid":"Public WiFi","adress1":"부산광역시 남구 우암로 190-15","aderess1":"부산광역시 남구 우암동 162-18","lat":35.125016,"hat":129.075892}]
+{"location":"우암동 주민센터","detail":"민원실","gu":"남구","tel":"LGU+","ssid":"Public WiFi","adress1":"부산광역시 남구 우암로 190-15","aderess1":"부산광역시 남구 우암동 162-18","lat":35.125016,"hat":129.075892}]}
